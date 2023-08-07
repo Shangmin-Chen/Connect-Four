@@ -1,0 +1,4 @@
+﻿Problem Set 9: Problem 0
+Put your response to the reading below.
+1. Suppose that pivot searching were readily available to you. To what extent could you imagine using it? Do you feel it would make you more productive – or would this type of search remain largely unused in the way you interact with computation and electronic materials?
+If pivot searching is an existing technology, I can see a select group using it a lot and assisting them to dramatically accelerate their work speed. There are people who forget things a lot, people with mental disorders (amnesia). People with ADHD can also use this to see if there was anything they were doing before that they forgot. However, personally I don’t see myself using this to that extent. I don’t see instances where I would need pivot searching. In addition, I feel like relying “memorization” on technology is making people lose their humanity little by little.
